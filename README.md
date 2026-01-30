@@ -7,4 +7,3 @@ Additionaly, indices of the physical volume of these indicators and their dynami
 My works are posted at links below:
 1. https://stat.gov.kz/ru/instuments/dashboards/28477/
 2. https://halykmacro.kz/national-economy/vneshnyaya-torgovlya
-3. 
